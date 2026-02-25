@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+appliances.txt
+billing_summary.txt
+main.cpp
